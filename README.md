@@ -1,14 +1,80 @@
-# CodeChefPracticeProblems
-Practice problems from CodeChef.
-- 0 - 1000
-  - Beginner Level
-- 1000 - 1200
-  - 1* Beginner Level
-- 1200 - 1400
-  - 1* Advanced Level
-- 1400 - 1500
-  - 2* Beginner Level
-- 1500 - 1600
-  - 2* Advanced Level
-- 1600 - 1700
-  - 3* Beginner Level
+# CodeChef Practice Solutions
+
+![CodeChef Logo](https://www.codechef.com/sites/all/themes/abessive/logo.png)
+
+Welcome to my CodeChef Practice Solutions repository! Here, you'll find my solutions to various problems from the CodeChef Practice Section, ranging from 0-star to 2-star difficulty levels (currently). This repository serves as a collection of my progress and learning journey on CodeChef.
+
+## About CodeChef
+
+[CodeChef](https://www.codechef.com/) is a competitive programming platform that hosts various coding contests and provides a wide range of problems to solve, helping programmers enhance their problem-solving skills and algorithms.
+
+## Repository Structure
+
+The repository is organized based on the difficulty levels of the problems. Each difficulty level has its own directory containing the solutions to the corresponding problems. The structure is as follows:
+
+```
+- 0-star/
+    - problem1.cpp
+    - ...
+- 1-star/
+    - problem3.java
+    - problem4.cpp
+    - ...
+- 2-star/
+    - problem5.cpp
+    - problem6.java
+    - ...
+```
+
+## Getting Started
+
+If you're interested in exploring my solutions, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/CodeChef-Practice-Solutions.git
+   ```
+
+2. Navigate to the directory corresponding to the difficulty level you're interested in.
+
+3. Open the solution files in your preferred programming language to study the code and approach used.
+
+4. Feel free to modify and experiment with the solutions to deepen your understanding.
+
+## Contributing
+
+While this repository primarily contains my solutions, I welcome contributions in the form of additional solutions, optimization techniques, or explanations. If you'd like to contribute, follow these steps:
+
+1. Fork the repository to your GitHub account.
+
+2. Create a new branch for your contributions:
+
+   ```bash
+   git checkout -b feature/add-solution
+   ```
+
+3. Add your solution file to the appropriate difficulty level directory.
+
+4. Commit your changes:
+
+   ```bash
+   git commit -m "Add solution to problemX"
+   ```
+
+5. Push the changes to your forked repository:
+
+   ```bash
+   git push origin feature/add-solution
+   ```
+
+6. Open a pull request on GitHub, describing the problem and your solution.
+
+## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out:
+
+- GitHub: [YourUsername](https://github.com/yourusername)
+- CodeChef: [YourCodeChefUsername](https://www.codechef.com/users/yourcodechefusername)
+
+Happy coding! 🚀
