@@ -24,6 +24,8 @@ The repository is organized based on the difficulty levels of the problems. Each
     - problem5.cpp
     - problem6.java
     - ...
+- Contest Problems/
+    - Solutions of problems I solved in Contests.
 ```
 
 ## Getting Started
