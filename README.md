@@ -79,4 +79,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 - GitHub: [arindal1](https://github.com/arindal1)
 - LinkedIn: [arindalchar](https://www.linkedin.com/in/arindalchar/)
 
-Happy coding! 🚀
+---
+
+### Solve these CodeChef problems over at [CodeChef Practice](https://www.codechef.com/practice).
+
+### Happy coding! 🚀
