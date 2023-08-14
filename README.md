@@ -13,14 +13,14 @@ Welcome to my CodeChef Practice Solutions repository! Here, you'll find my solut
 The repository is organized based on the difficulty levels of the problems. Each difficulty level has its own directory containing the solutions to the corresponding problems. The structure is as follows:
 
 ```
-- 0-star/
+- 0Star ___Lvl/
     - problem1.cpp
     - ...
-- 1-star/
+- 1Star ___Lvl/
     - problem3.java
     - problem4.cpp
     - ...
-- 2-star/
+- 2Star ___Lvl/
     - problem5.cpp
     - problem6.java
     - ...
