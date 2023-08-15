@@ -35,7 +35,7 @@ If you're interested in exploring my solutions, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/CodeChef-Practice-Solutions.git
+   git clone https://github.com/arindal1/CodeChefProblems.git
    ```
 
 2. Navigate to the directory corresponding to the difficulty level you're interested in.
