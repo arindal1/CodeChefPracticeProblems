@@ -32,14 +32,14 @@ The repository is organized based on the difficulty levels of the problems. Each
 
 | Levels   | Links    |
 |:---------|:--------:|
-| 0 Stars  | [link](/0Star%BegLvl) |
-| 1 Stars Beginner Level | [link](/1Star%BegLvl) |
-| 1 Stars Advanced Level | [link](/1Star%AdvLvl) |
-| 2 Stars Beginner Level | [link](/2Star%BegLvl) |
-| 2 Stars Advanced Level | [link](/2Star%AdvLvl) |
-| 3 Stars Beginner Level | [link](/3Star%BegLvl) |
-| Contest Problems | [link](/Contest%Problems) |
-| Others | [link](/Old%C%problems) |
+| 0 Stars  | [link](https://github.com/arindal1/CodeChefProblems/tree/main/0Star%20BegLvl) |
+| 1 Stars Beginner Level | [link](https://github.com/arindal1/CodeChefProblems/tree/main/1Star%20BegLvl) |
+| 1 Stars Advanced Level | [link](https://github.com/arindal1/CodeChefProblems/tree/main/1Star%20AdvLvl) |
+| 2 Stars Beginner Level | [link](https://github.com/arindal1/CodeChefProblems/tree/main/2Star%20AdvLvl) |
+| 2 Stars Advanced Level | [link](https://github.com/arindal1/CodeChefProblems/tree/main/2Star%20BegLvl) |
+| 3 Stars Beginner Level | [link](https://github.com/arindal1/CodeChefProblems/tree/main/3Star%20BegLvl) |
+| Contest Problems | [link](https://github.com/arindal1/CodeChefProblems/tree/main/Contest%20Problems) |
+| Others | [link](https://github.com/arindal1/CodeChefProblems/tree/main/Old%20C%20problems) |
 
 
 ## Getting Started
