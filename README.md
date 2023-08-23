@@ -28,6 +28,20 @@ The repository is organized based on the difficulty levels of the problems. Each
     - Solutions of problems I solved in Contests.
 ```
 
+## Fast Travel
+
+| Levels   | Links    |
+|:---------|:--------:|
+| 0 Stars  | [link](/0Star-BegLvl) |
+| 1 Stars Beginner Level | [link](/1Star-BegLvl) |
+| 1 Stars Advanced Level | [link](/1Star-AdvLvl) |
+| 2 Stars Beginner Level | [link](/2Star-BegLvl) |
+| 2 Stars Advanced Level | [link](/2Star-AdvLvl) |
+| 3 Stars Beginner Level | [link](/3Star-BegLvl) |
+| Contest Problems | [link](/Contest-Problems) |
+| Others | [link](/Old-C-problems) |
+
+
 ## Getting Started
 
 If you're interested in exploring my solutions, follow these steps:
