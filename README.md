@@ -2,7 +2,7 @@
 
 ![CodeChef Logo](https://www.codechef.com/sites/all/themes/abessive/logo.png)
 
-Welcome to my CodeChef Practice Solutions repository! Here, you'll find my solutions to various problems from the CodeChef Practice Section, ranging from 0-star to 2-star difficulty levels (currently). This repository serves as a collection of my progress and learning journey on CodeChef.
+Welcome to my CodeChef Practice Solutions repository! Here, you'll find my solutions to various problems from the CodeChef Practice Section, ranging from 0-star to 3-star difficulty levels (currently). This repository serves as a collection of my progress and learning journey on CodeChef.
 
 ## About CodeChef
 
