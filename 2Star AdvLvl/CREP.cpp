@@ -1,33 +1,30 @@
 #include <bits/stdc++.h>
 using namespace std;
+#define ll long long
+
 
 void sumK() {
-    int n, k;
+    ll n, i, j, k;
     cin >> n >> k;
-      
-    int arr[n];
-    map<int,int> mp;
-    for (int i=0; i<n; i++) {
-        cin>>arr[i];
-        mp[arr[i]]++;
-    }
-      
-    int sum = 0;
-    bool flag = false;
-    for (auto it:mp) {
-        if (it.second==k) {
-            sum+=it.first;
-            if (it.first==0) {
-                flag=true;
-            }
-        }
-    }
-    if (sum==0 && flag==false)
-        cout << -1 << endl;
-    else if (sum==0 && flag==true)
-        cout << 0 << endl;
-    else
-        cout << sum << endl;
+	    unordered_map<ll,ll>m;
+	    for(i=0;i<n;i++)
+	    {
+	        cin >> j;
+	        m[j]++;
+	    }
+	    ll ans=0ll,f=0ll;
+	    for(auto x:m)
+	    {
+	        if(x.second==k)
+	        {
+	            f=1ll;
+	            ans+=(x.first);
+	        }
+	    }
+	    if(f)
+	        cout << ans << "\n";
+	    else
+	        cout << "-1\n";
 }
 
 int main() {
